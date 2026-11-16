@@ -37,7 +37,7 @@
     "livekit-server-sdk": "^2.19.2",
     "meilisearch": "^0.62.0",
     "nostr-tools": "^2.25.5",
-    "pino": "^9.6.0",
+    "pino": "^10.4.0",
     "postgres": "^4.1.0",
     "sharp": "^0.35.5",
     "web-push": "^3.6.7",
