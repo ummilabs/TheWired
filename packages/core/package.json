@@ -31,10 +31,10 @@
     "@noble/curves": "^1.9.7",
     "@noble/hashes": "^1.8.0",
     "lru-cache": "^11.5.3",
-    "nostr-tools": "^2.25.5"
+    "nostr-tools": "^2.26.1"
   },
   "devDependencies": {
     "typescript": "^7.0.2",
-    "vitest": "^5.1.0"
+    "vitest": "^5.1.1"
   }
 }
